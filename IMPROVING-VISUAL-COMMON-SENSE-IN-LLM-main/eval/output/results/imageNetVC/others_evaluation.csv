@@ -1,0 +1,4 @@
+Data set,Subset,K,Batch Size,Num Test Samples,Avg Score,Accuracy
+ImageNetVC,others,1,1,500,nan,0.422
+ImageNetVC,others,1,1,2,0.309,0.500
+ImageNetVC,others,0,1,5,nan,0.800

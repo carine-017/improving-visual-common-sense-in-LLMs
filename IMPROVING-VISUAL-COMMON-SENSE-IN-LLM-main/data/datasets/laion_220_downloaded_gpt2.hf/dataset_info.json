@@ -1,0 +1,52 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "220k-gpt4_vision-captions-from-livis",
+  "dataset_size": 133289656,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/laion/220k-GPT4Vision-captions-from-LIVIS@0445c4ec408142738a89e24628e7c3e94e3d4d90/lvis_caption_url.parquet": {
+      "num_bytes": 62761426,
+      "checksum": null
+    }
+  },
+  "download_size": 62761426,
+  "features": {
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "image_path": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 196051082,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 133289656,
+      "num_examples": 217868,
+      "dataset_name": "220k-gpt4_vision-captions-from-livis"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

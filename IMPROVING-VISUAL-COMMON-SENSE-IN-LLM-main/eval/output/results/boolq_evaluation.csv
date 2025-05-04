@@ -1,0 +1,14 @@
+Dataset,K,Batch Size,Num Test Samples,avg_clip_score,Accuracy
+BoolQ,1,1,500,0.289622,0.600
+BoolQ,0,1,500,nan,0.602
+BoolQ,1,1,30,0.303,0.800
+BoolQ,0,1,30,nan,0.767
+BoolQ,1,1,5,0.298,0.800
+BoolQ,0,1,5,nan,0.800
+BoolQ,1,1,5,0.894,0.200 # +0.6 score
+BoolQ,1,1,5,0.794,0.200 # +0.5
+BoolQ,1,1,5,0.594,0.800 # +0.3
+BoolQ,1,1,5,0.694,0.800 # +0.4
+BoolQ,1,1,5,0.744,0.600 # +0.45
+
+

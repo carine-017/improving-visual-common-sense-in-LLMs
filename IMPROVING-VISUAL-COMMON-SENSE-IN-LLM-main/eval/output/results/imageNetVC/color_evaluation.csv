@@ -1,0 +1,10 @@
+Data set,Subset,K,Batch Size,Num Test Samples,Avg Clip Score,Accuracy
+ImageNetVC,color,0,1,500,nan,0.204
+ImageNetVC,color,1,1,500,0.312,0.204
+ImageNetVC,color,2,1,500,0.311,0.204
+ImageNetVC,color,0,1,30,nan,0.167
+ImageNetVC,color,1,1,30,0.325,0.167
+ImageNetVC,color,1,1,30,0.725,0.167
+ImageNetVC,color,0,1,30,nan,0.167
+ImageNetVC,color,0,1,5,nan,0.000
+ImageNetVC,color,1,1,5,0.706,0.000
